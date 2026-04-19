@@ -52,9 +52,11 @@ While quantum kernels can produce richer and more structured similarity patterns
 Increasing the number of qubits enriches the feature space, while increasing circuit depth enhances expressivity only up to a point. Excessive depth may lead to flattened kernels and reduced performance.
 _____________________________
 Next steps
+
 Possible next steps include exploring more complex datasets, testing alternative feature maps, and extending the approach to photonic quantum circuits.
 _____________________________
 What surprised me
+
 Quantum kernel decision boundaries have band-like structures
 Quantum kernels are not always superior
 Deeper circuits do not necessarily lead to better performance
